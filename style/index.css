@@ -29,12 +29,12 @@ vertical-align: baseline;
 }
 /*General Styles*/ 
 html{
-    font-size:62.5%;
+    font-size: 62.5%;
 }
 body{
-    font-size:1.6rem;
-    line-height:1.5;
-    color:#4F4F4F;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #4F4F4F;
     font-family: 'Open Sans', sans-serif;
 }
 
